@@ -23,6 +23,7 @@ pip3 install -r requirements.txt
 You can compute the Principal Path with visual artworks using the following command
 
 ```
+cd python
 python3 main.py "images" <mode> <list-of-styles>
 ```
 where the parameter **mode** allows to choose the start and end points and can be:

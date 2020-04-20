@@ -1,0 +1,85 @@
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]

@@ -1,0 +1,82 @@
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['12' 'piero-di-cosimo_the-young-saint-john-the-baptist-1480.jpg' '1480']]
+[['14' 'john-singleton-copley_eleazer-tyng-1772.jpg' '1772']]
+[['14' 'john-singleton-copley_eleazer-tyng-1772.jpg' '1772']]
+[['14'
+  'angelica-kauffman_portrait-of-louisa-leveson-gower-as-spes-goddess-of-hope-1767.jpg'
+  '1767']]
+[['14'
+  'angelica-kauffman_portrait-of-louisa-leveson-gower-as-spes-goddess-of-hope-1767.jpg'
+  '1767']]
+[['14'
+  'franz-xaver-winterhalter_harriet-howard-duchess-of-sutherland.jpg'
+  '1843']]
+[['14'
+  'franz-xaver-winterhalter_harriet-howard-duchess-of-sutherland.jpg'
+  '1843']]
+[['12' 'hans-von-aachen_matchmaking-scene-1610.jpg' '1610']]
+[['12' 'paolo-veronese_christ-in-the-garden-of-gethsemane-1584.jpg'
+  '1584']]
+[['12' 'paolo-veronese_christ-in-the-garden-of-gethsemane-1584.jpg'
+  '1584']]
+[['12' 'paolo-veronese_christ-in-the-garden-of-gethsemane-1584.jpg'
+  '1584']]
+[['12' 'maerten-van-heemskerck_landscape-with-st-jerome-1547.jpg' '1547']]
+[['14'
+  'jacques-louis-david_the-consecration-of-the-emperor-napoleon-and-the-coronation-of-the-empress-josephine-by-pope-1807.jpg'
+  '1807']]
+[['14' 'giovanni-battista-piranesi_cherub-half-length-by-guercino.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14' 'giovanni-battista-piranesi_sleeping-old-man.jpg' '1843']]
+[['14' 'giovanni-battista-piranesi_sleeping-old-man.jpg' '1843']]
+[['14' 'giovanni-battista-piranesi_sleeping-old-man.jpg' '1843']]
+[['14' 'giovanni-battista-piranesi_sleeping-old-man.jpg' '1843']]
+[['14' 'carlo-carra_interior-1924.jpg' '1924']]
+[['14' 'carlo-carra_interior-1924.jpg' '1924']]
+[['9'
+  'peter-blake_it-isn-t-manners-for-us-to-begin-you-know-said-the-rose-1970.jpg'
+  '1970']]
+[['9'
+  'peter-blake_it-isn-t-manners-for-us-to-begin-you-know-said-the-rose-1970.jpg'
+  '1970']]
+[['9' 'peter-blake_costume-life-drawing-1972.jpg' '1972']]
+[['9' 'peter-blake_costume-life-drawing-1972.jpg' '1972']]
+[['9' 'peter-blake_costume-life-drawing-1972.jpg' '1972']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]
+[['9' 'billy-apple_from-the-mike-wilson-collection-2006.jpg' '2006']]

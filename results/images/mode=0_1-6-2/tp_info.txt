@@ -1,0 +1,98 @@
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]

@@ -1,0 +1,80 @@
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['18'
+  'sir-lawrence-alma-tadema_fredegunda-praetextatus-visit-on-his-deathbed.jpg'
+  '1849']]
+[['18' 'joseph-wright_the-blacksmith-s-shop-18th-century.jpg' '1849']]
+[['18' 'joseph-wright_the-blacksmith-s-shop-18th-century.jpg' '1849']]
+[['18' 'joseph-wright_the-blacksmith-s-shop-18th-century.jpg' '1849']]
+[['18' 'joseph-wright_the-blacksmith-s-shop-18th-century.jpg' '1849']]
+[['18' 'john-everett-millais_clarissa.jpg' '1849']]
+[['18' 'francisco-goya_they-already-go-plucked-1799.jpg' '1799']]
+[['18' 'francisco-goya_they-already-go-plucked-1799.jpg' '1799']]
+[['18' 'francisco-goya_they-already-go-plucked-1799.jpg' '1799']]
+[['18' 'francisco-goya_they-already-go-plucked-1799.jpg' '1799']]
+[['18' 'francisco-goya_they-already-go-plucked-1799.jpg' '1799']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18'
+  'william-leighton-leitch_bethlehem-engraving-by-william-miller-after-leitch-1866.jpg'
+  '1866']]
+[['18'
+  'william-leighton-leitch_bethlehem-engraving-by-william-miller-after-leitch-1866.jpg'
+  '1866']]
+[['18' 'gustave-dore_don-quixote-74.jpg' '1849']]
+[['18'
+  'william-leighton-leitch_bethlehem-engraving-by-william-miller-after-leitch-1866.jpg'
+  '1866']]
+[['18'
+  'william-leighton-leitch_bethlehem-engraving-by-william-miller-after-leitch-1866.jpg'
+  '1866']]
+[['18'
+  'karl-bodmer_stolzenfels-castle-in-the-background-lahneck-castle-1836.jpg'
+  '1836']]
+[['18'
+  'karl-bodmer_stolzenfels-castle-in-the-background-lahneck-castle-1836.jpg'
+  '1836']]
+[['18'
+  'karl-bodmer_stolzenfels-castle-in-the-background-lahneck-castle-1836.jpg'
+  '1836']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'jan-matejko_portrait-of-a-father.jpg' '1849']]
+[['18' 'jan-matejko_portrait-of-a-father.jpg' '1849']]
+[['18' 'henry-raeburn_portrait-of-niel-gow.jpg' '1849']]
+[['18' 'henry-raeburn_portrait-of-niel-gow.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]

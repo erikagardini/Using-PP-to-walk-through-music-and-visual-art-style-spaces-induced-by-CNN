@@ -1,0 +1,107 @@
+[['12' 'paolo-veronese_christ-in-the-garden-of-gethsemane-1584.jpg'
+  '1584']]
+[['12' 'paolo-veronese_christ-in-the-garden-of-gethsemane-1584.jpg'
+  '1584']]
+[['12' 'paolo-veronese_christ-in-the-garden-of-gethsemane-1584.jpg'
+  '1584']]
+[['12' 'paolo-veronese_christ-in-the-garden-of-gethsemane-1584.jpg'
+  '1584']]
+[['14' 'john-singleton-copley_richard-heber-1782.jpg' '1782']]
+[['14' 'john-singleton-copley_richard-heber-1782.jpg' '1782']]
+[['14'
+  'franz-xaver-winterhalter_harriet-howard-duchess-of-sutherland.jpg'
+  '1843']]
+[['14'
+  'franz-xaver-winterhalter_harriet-howard-duchess-of-sutherland.jpg'
+  '1843']]
+[['14'
+  'franz-xaver-winterhalter_harriet-howard-duchess-of-sutherland.jpg'
+  '1843']]
+[['14'
+  'franz-xaver-winterhalter_harriet-howard-duchess-of-sutherland.jpg'
+  '1843']]
+[['14'
+  'angelica-kauffman_portrait-of-louisa-leveson-gower-as-spes-goddess-of-hope-1767.jpg'
+  '1767']]
+[['14'
+  'angelica-kauffman_portrait-of-louisa-leveson-gower-as-spes-goddess-of-hope-1767.jpg'
+  '1767']]
+[['14'
+  'angelica-kauffman_portrait-of-louisa-leveson-gower-as-spes-goddess-of-hope-1767.jpg'
+  '1767']]
+[['14'
+  'franz-xaver-winterhalter_harriet-howard-duchess-of-sutherland.jpg'
+  '1843']]
+[['14'
+  'franz-xaver-winterhalter_harriet-howard-duchess-of-sutherland.jpg'
+  '1843']]
+[['12'
+  'paolo-veronese_sketch-for-paradise-to-decorate-the-room-of-the-grand-council-of-the-ducal-palace-of-venice-1578.jpg'
+  '1578']]
+[['14' 'giovanni-battista-piranesi_sleeping-old-man.jpg' '1843']]
+[['14' 'giovanni-battista-piranesi_sleeping-old-man.jpg' '1843']]
+[['14' 'giovanni-battista-piranesi_sleeping-old-man.jpg' '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_the-roman-antiquities-t-4-plate-xlviii.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_the-roman-antiquities-t-4-plate-xlviii.jpg'
+  '1843']]
+[['14' 'giovanni-battista-piranesi_cherub-half-length-by-guercino.jpg'
+  '1843']]
+[['14' 'giovanni-battista-piranesi_cherub-half-length-by-guercino.jpg'
+  '1843']]
+[['14' 'giovanni-battista-piranesi_cherub-half-length-by-guercino.jpg'
+  '1843']]
+[['14' 'giovanni-battista-piranesi_cherub-half-length-by-guercino.jpg'
+  '1843']]
+[['14' 'giovanni-battista-piranesi_cherub-half-length-by-guercino.jpg'
+  '1843']]
+[['14' 'giovanni-battista-piranesi_cherub-half-length-by-guercino.jpg'
+  '1843']]
+[['14' 'giovanni-battista-piranesi_cherub-half-length-by-guercino.jpg'
+  '1843']]
+[['14' 'carlo-carra_interior-1924.jpg' '1924']]
+[['14' 'carlo-carra_interior-1924.jpg' '1924']]
+[['14' 'carlo-carra_interior-1924.jpg' '1924']]
+[['14' 'carlo-carra_interior-1924.jpg' '1924']]
+[['9' 'peter-blake_costume-life-drawing-1972.jpg' '1972']]
+[['9' 'peter-blake_costume-life-drawing-1972.jpg' '1972']]
+[['9' 'roy-lichtenstein_little-aloha.jpg' '1974']]
+[['9' 'billy-apple_self-portrait-1963.jpg' '1963']]
+[['9' 'billy-apple_self-portrait-1963.jpg' '1963']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]

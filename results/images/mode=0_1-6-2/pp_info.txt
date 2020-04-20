@@ -1,0 +1,78 @@
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1' 'domenico-ghirlandaio_st-jerome-1480.jpg' '1480']]
+[['1' 'domenico-ghirlandaio_st-jerome-1480.jpg' '1480']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['6' 'george-morland_the-roadside-inn-1792.jpg' '1792']]
+[['6' 'george-morland_the-roadside-inn-1792.jpg' '1792']]
+[['6' 'george-morland_the-roadside-inn-1792.jpg' '1792']]
+[['6' 'thomas-gainsborough_portrait-of-a-gentleman.jpg' '1770']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['6' 'jean-marc-nattier_portrait-of-tsar-peter-i-1717.jpg' '1717']]
+[['6' 'jean-marc-nattier_portrait-of-tsar-peter-i-1717.jpg' '1717']]
+[['6' 'jean-marc-nattier_portrait-of-tsar-peter-i-1717.jpg' '1717']]
+[['6' 'jean-marc-nattier_portrait-of-tsar-peter-i-1717.jpg' '1717']]
+[['6' 'jean-marc-nattier_portrait-of-tsar-peter-i-1717.jpg' '1717']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'carl-ludwig-johann-christineck_teresa-schnee-1777.jpg' '1777']]
+[['6' 'carl-ludwig-johann-christineck_teresa-schnee-1777.jpg' '1777']]
+[['6' 'carl-ludwig-johann-christineck_teresa-schnee-1777.jpg' '1777']]
+[['6' 'carl-ludwig-johann-christineck_teresa-schnee-1777.jpg' '1777']]
+[['2' 'marc-chagall_tchitchikov-s-arrival-to-town-n.jpg' '1951']]
+[['2' 'marc-chagall_tchitchikov-s-arrival-to-town-n.jpg' '1951']]
+[['2' 'marc-chagall_tchitchikov-s-arrival-to-town-n.jpg' '1951']]
+[['2' 'marc-chagall_tchitchikov-s-arrival-to-town-n.jpg' '1951']]
+[['2' 'marc-chagall_tchitchikov-s-arrival-to-town-n.jpg' '1951']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]

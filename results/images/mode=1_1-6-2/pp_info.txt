@@ -1,0 +1,81 @@
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'fernand-leger_not_detected_196071.jpg' '1951']]
+[['2' 'tarsila-do-amaral_pastoral.jpg' '1951']]
+[['2' 'tarsila-do-amaral_pastoral.jpg' '1951']]
+[['2' 'tarsila-do-amaral_pastoral.jpg' '1951']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['2'
+  'max-ernst_the-dull-military-broods-in-front-of-my-right-wing-1975.jpg'
+  '1975']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'joshua-reynolds_sir-john-molesworth.jpg' '1770']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'louise-elisabeth-vigee-le-brun_self-portrait-1790.jpg' '1790']]
+[['6' 'jean-marc-nattier_portrait-of-tsar-peter-i-1717.jpg' '1717']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'domenico-ghirlandaio_decoration-of-the-sala-del-gigli-1484-1.jpg'
+  '1484']]
+[['1' 'benozzo-gozzoli_tabernacle-of-the-condemned-1466.jpg' '1466']]
+[['1' 'benozzo-gozzoli_tabernacle-of-the-condemned-1466.jpg' '1466']]
+[['1' 'benozzo-gozzoli_tabernacle-of-the-condemned-1466.jpg' '1466']]
+[['1' 'benozzo-gozzoli_tabernacle-of-the-condemned-1466.jpg' '1466']]
+[['1' 'benozzo-gozzoli_tabernacle-of-the-condemned-1466.jpg' '1466']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
+[['1' 'domenico-ghirlandaio_announcement-of-death-to-st-fina-1475.jpg'
+  '1475']]
