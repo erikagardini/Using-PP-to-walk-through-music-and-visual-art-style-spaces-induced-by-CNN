@@ -1,3 +1,11 @@
 .*
 __init__.py
 images_dataset.csv
+__pycache__/
+venv/
+
+# PyCharm
+.idea
+.idea/
+.idea/*
+.idea/workspace.xml
