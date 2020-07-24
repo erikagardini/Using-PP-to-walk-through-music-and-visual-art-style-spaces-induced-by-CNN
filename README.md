@@ -66,8 +66,8 @@ python3 main.py "images" 2 22 14 17 3
 ```
 
 The code produces the following output:
-- [KNNpp.svg]("results/images/mode=2_22-14-17-3/Recovered styles progression pp.svg"): the labels of the nearest artwork for each waypoint obtained with the Principal Path algorithm (pp)
-- [KNNtp.svg]("results/images/mode=2_22-14-17-3/Recovered styles progression tp.svg"): the labels of the nearest artwork for each waypoint obtained with the trivial path (tp)
+- [KNNpp.svg](results/images/mode=2_22-14-17-3/Recovered%20styles%20progression%20pp.svg): the labels of the nearest artwork for each waypoint obtained with the Principal Path algorithm (pp)
+- [KNNtp.svg](results/images/mode=2_22-14-17-3/Recovered%20styles%20progression%20tp.svg): the labels of the nearest artwork for each waypoint obtained with the trivial path (tp)
 - [paths.svg](results/images/mode=2_22-14-17-3/paths.svg): the 2D visualization of the Principal Path and the trivial path with t-SNE
 - [pp_info.txt](results/images/mode=2_22-14-17-3/pp_info.txt): the information about the nearest artwork (style, author, name, date) for each waypoint obtained with the Principal Path algorithm (pp)
 - [tp_info.txt](results/images/mode=2_22-14-17-3/tp_info.txt): the information about the nearest artwork (style, author, name, date) for each waypoint obtained with the trivial path (tp)
