@@ -1,4 +1,4 @@
-# Inferring Music and Visual Art Style Evolution via Computational Intelligence
+# Walking through the Music and Visual Art StyleSpace via Computational Intelligence
 
 This project aims at navigating the Music and Visual Art Spaces via the Principal Path algorithm (1).
 
