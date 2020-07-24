@@ -107,8 +107,8 @@ python3 main.py "music" 1 2 6 3
 ```
 
 The code produces the following output (start point index = 21, end point index = 579):
-- [KNNpp.svg](results/music/mode=1_2-6-3/Recovered%20styles%20progression%20pp.svg.svg): the labels of the nearest song for each waypoint obtained with the Principal Path algorithm (pp)
-- [KNNtp.svg](results/music/mode=1_2-6-3/Recovered%20styles%20progression%20tp.svg.svg): the labels of the nearest song for each waypoint obtained with the trivial path (tp)
+- [KNNpp.svg](results/music/mode=1_2-6-3/Recovered%20styles%20progression%20pp.svg): the labels of the nearest song for each waypoint obtained with the Principal Path algorithm (pp)
+- [KNNtp.svg](results/music/mode=1_2-6-3/Recovered%20styles%20progression%20tp.svg): the labels of the nearest song for each waypoint obtained with the trivial path (tp)
 - [paths.svg](results/music/mode=1_2-6-3/paths.svg): the 2D visualization of the Principal Path and the trivial path with t-SNE
 - [pp_info.txt](results/music/mode=1_2-6-3/pp_info.txt): the information about the nearest song (genre, author, name) for each waypoint obtained with the Principal Path algorithm (pp)
 - [tp_info.txt](results/music/mode=1_2-6-3/tp_info.txt): the information about the nearest song (genre, author, name) for each waypoint obtained with the trivial path (tp)
