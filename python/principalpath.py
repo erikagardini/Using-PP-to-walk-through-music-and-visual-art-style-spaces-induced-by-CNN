@@ -6,6 +6,8 @@
 import numpy as np
 from scipy.spatial import distance
 from matplotlib import pyplot
+from scipy.sparse import csgraph
+from python import linear_utilities as lu
 
 def rkm(X, init_W, s, plot_ax=None):
     """

@@ -1,0 +1,80 @@
+[['2'
+  '53372_farallon_recorder_quartet-ludwig_senfl-15-unsaglich_schmerz-30-59']]
+[['2'
+  '53372_farallon_recorder_quartet-ludwig_senfl-15-unsaglich_schmerz-30-59']]
+[['2'
+  '53372_farallon_recorder_quartet-ludwig_senfl-15-unsaglich_schmerz-30-59']]
+[['2'
+  '53372_farallon_recorder_quartet-ludwig_senfl-15-unsaglich_schmerz-30-59']]
+[['4'
+  '48512_richard_savino-legrenzi__venice_before_vivaldi-12-o_dilectissime_jesu_per_il_santissimo-436-465']]
+[['4'
+  '48512_richard_savino-legrenzi__venice_before_vivaldi-12-o_dilectissime_jesu_per_il_santissimo-436-465']]
+[['4'
+  '48512_richard_savino-legrenzi__venice_before_vivaldi-12-o_dilectissime_jesu_per_il_santissimo-436-465']]
+[['4'
+  '47680_american_bach_soloists-j_s__bach__mass_in_b_minor_cd2-12-benedictus-175-204']]
+[['4'
+  '47680_american_bach_soloists-j_s__bach__mass_in_b_minor_cd2-12-benedictus-175-204']]
+[['2'
+  '9494_ensemble_vermillian-stolen_jewels-02-rosenmuller_sonata_teraz_a_2_adagio-30-59']]
+[['2'
+  '9494_ensemble_vermillian-stolen_jewels-02-rosenmuller_sonata_teraz_a_2_adagio-30-59']]
+[['4'
+  '52547_american_bach_soloists-joseph_haydn__masses-15-credo__allegroadagioallegro-59-88']]
+[['1'
+  '4615_tanya_tomkins_and_eric_zivian-beethoven_piano_and_cello_works-01-sonata_in_g_minor_op__5_no__2_adagio___allegro-494-523']]
+[['1'
+  '4615_tanya_tomkins_and_eric_zivian-beethoven_piano_and_cello_works-01-sonata_in_g_minor_op__5_no__2_adagio___allegro-494-523']]
+[['1'
+  '4615_tanya_tomkins_and_eric_zivian-beethoven_piano_and_cello_works-01-sonata_in_g_minor_op__5_no__2_adagio___allegro-494-523']]
+[['1'
+  '4531_seth_and_maryse_carlin-schubert__music_for_fortepiano_four_hands-01-sonata_in_c_major_grand_duo__allegro_moderato-494-523']]
+[['1'
+  '4531_seth_and_maryse_carlin-schubert__music_for_fortepiano_four_hands-01-sonata_in_c_major_grand_duo__allegro_moderato-494-523']]
+[['1'
+  '27143_american_baroque-mozart_4_quartets_for_strings_and_winds-06-flute_quartet_in_c_k285b__allegro-233-262']]
+[['1'
+  '27143_american_baroque-mozart_4_quartets_for_strings_and_winds-06-flute_quartet_in_c_k285b__allegro-233-262']]
+[['1'
+  '37484_ensemble_mirable-conversations_galantes-08-sonata_v_in_f_major_allegromoderato-88-117']]
+[['1'
+  '51817_paul_berget-the_siena_manuscript_on_steel_string_guitar-14-recercar_14_steel_string_guitar-117-146']]
+[['1'
+  '51817_paul_berget-the_siena_manuscript_on_steel_string_guitar-14-recercar_14_steel_string_guitar-117-146']]
+[['1'
+  '30674_magnatune-romantic_dinner_classical_compilation-07-brook_street_band__premier_recreation_de_musique_leclair-59-88']]
+[['2' '11818_barry_phillips-trad-03-bisonpolska-30-59']]
+[['1'
+  '29193_les_filles_de_sainte_colombe-german_music_for_viols_and_harpsichord-06-sonata_viii_in_c_minor_schenck-262-291']]
+[['1'
+  '29193_les_filles_de_sainte_colombe-german_music_for_viols_and_harpsichord-06-sonata_viii_in_c_minor_schenck-262-291']]
+[['1' '43965_jeff_wahl-guinevere-10-root_beer_meteor_shower-30-59']]
+[['1' '43965_jeff_wahl-guinevere-10-root_beer_meteor_shower-30-59']]
+[['6' '30838_thursday_group-first_album-07-claytonia-436-465']]
+[['6' '30838_thursday_group-first_album-07-claytonia-436-465']]
+[['6' '30838_thursday_group-first_album-07-claytonia-436-465']]
+[['6' '11105_thursday_group-first_album-02-winds_eye-146-175']]
+[['6' '11105_thursday_group-first_album-02-winds_eye-146-175']]
+[['3' '2190_mutandina-mutandina-01-juego-262-291']]
+[['3' '2190_mutandina-mutandina-01-juego-262-291']]
+[['3'
+  '13396_burnshee_thornside-the_art_of_not_blending_in-03-in_the_60s_love_was_cool-146-175']]
+[['3'
+  '13396_burnshee_thornside-the_art_of_not_blending_in-03-in_the_60s_love_was_cool-146-175']]
+[['3'
+  '13396_burnshee_thornside-the_art_of_not_blending_in-03-in_the_60s_love_was_cool-146-175']]
+[['3' '42854_tom_paul-there_is_no_map-10-guess_i_didnt_try-88-117']]
+[['3' '9712_tom_paul-there_is_no_map-02-shes_my_girlfriend-146-175']]
+[['3' '35818_william_brooks-silent_wings-08-i_will_stop_with_you-175-204']]
+[['3' '16907_processor-are_you_for_real-04-call_the_sheriff-204-233']]
+[['3' '16907_processor-are_you_for_real-04-call_the_sheriff-204-233']]
+[['3' '30319_rocket_city_riot-middle_age_suicide-07-all_my_pain-88-117']]
+[['3' '2837_rocket_city_riot-pop_killer-01-mister_right-88-117']]
+[['3' '2837_rocket_city_riot-pop_killer-01-mister_right-88-117']]
+[['3' '14505_skitzo-babblesick-03-prom_night-117-146']]
+[['3' '14505_skitzo-babblesick-03-prom_night-117-146']]
+[['3' '16060_the_kokoon-berlin-03-we_didnt_go-0-29']]
+[['3' '27509_the_kokoon-berlin-06-its_time_now-0-29']]
+[['3' '27509_the_kokoon-berlin-06-its_time_now-0-29']]
+[['3' '27509_the_kokoon-berlin-06-its_time_now-0-29']]

@@ -15,7 +15,10 @@ import os
 
 DIR = "../datasets/"
 
-colors = ['C0', 'C1', 'C2', 'C3', 'C4', 'C5', 'C6']
+colors = ['C0', 'C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'red', 'blue', 'green', 'yellow',
+          'cyan', 'red', 'C0', 'C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'blue', 'green', 'yellow',
+          'cyan']#'coral', 'pink', 'navy', 'acqua', 'black', 'bisque', 'royalblue', 'orchid',
+          #'orangered', 'gold']
 
 music_dic = {1: "classical",
               2: "baroque",
@@ -301,7 +304,6 @@ def findNeighbourhood(X, X_labels, model, info, classes, type, name, dir_name):
     model_labels = knn.predict(model)
     plotNeighbourhood(classes, model_labels, type, name, dir_name)
 
-
 def plotNeighbourhood(classes, model_labels, type, name, dir_name):
     """
      Plot the label assigned to each waypoint
@@ -325,9 +327,9 @@ def plotNeighbourhood(classes, model_labels, type, name, dir_name):
         x_values.append(i)
     x_values = np.array(x_values)
 
-    fig = plt.figure(figsize=(8,3))
+    fig = plt.figure(figsize=(20,20))
     ax3 = fig.add_subplot(1, 1,1)
-    ax3.set_ylim([0, 6])
+    ax3.set_ylim([0, 30])
     i = 1
 
     unique_labels = getUniqueLabels(classes, name)
@@ -499,10 +501,11 @@ def getData(classes, mode, name):
         boundary_ids[0] = features.shape[0] - classes.shape[0]
         boundary_ids[1] = features.shape[0] - 1
     elif mode == 1:
+        #Visual selection
         boundary_ids=getMouseSamples2D(features, labels,2, classes, name)
     elif mode == 2: #only for images
         [index_min, index_max] = find_min_max_indexes(dates)
-        # Select min and max dates as start and end points
+        #Select min and max dates as start and end points
         boundary_ids[0] = index_min
         boundary_ids[1] = index_max
 
