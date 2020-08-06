@@ -15,10 +15,7 @@ import os
 
 DIR = "../datasets/"
 
-colors = ['C0', 'C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'red', 'blue', 'green', 'yellow',
-          'cyan', 'red', 'C0', 'C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9', 'blue', 'green', 'yellow',
-          'cyan']#'coral', 'pink', 'navy', 'acqua', 'black', 'bisque', 'royalblue', 'orchid',
-          #'orangered', 'gold']
+colors = ['C0', 'C1', 'C2', 'C3', 'C4', 'C5', 'C6', 'C7', 'C8', 'C9']
 
 music_dic = {1: "classical",
               2: "baroque",
@@ -327,9 +324,9 @@ def plotNeighbourhood(classes, model_labels, type, name, dir_name):
         x_values.append(i)
     x_values = np.array(x_values)
 
-    fig = plt.figure(figsize=(20,20))
-    ax3 = fig.add_subplot(1, 1,1)
-    ax3.set_ylim([0, 30])
+    fig = plt.figure(figsize=(8,3))
+    ax3 = fig.add_subplot(1, 1, 1)
+    ax3.set_ylim([0, 6])
     i = 1
 
     unique_labels = getUniqueLabels(classes, name)

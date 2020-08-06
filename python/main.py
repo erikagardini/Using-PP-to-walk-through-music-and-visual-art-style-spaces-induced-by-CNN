@@ -16,7 +16,7 @@ def main(name, mode, classes, dir_name):
     print("Loading data...")
     [X, X_labels, boundary_ids, info] = pu.getData(classes, mode, name)
 
-    NC = 100
+    NC = 50
     d = X.shape[1]
 
     ###PRINCIPAL PATH###
