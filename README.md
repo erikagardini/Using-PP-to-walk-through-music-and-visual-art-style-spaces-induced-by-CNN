@@ -68,9 +68,9 @@ python3 main.py "images" 2 22 14 17 3
 The code produces the following output:
 - [KNNpp.svg](results/images/mode=2_22-14-17-3/Recovered%20styles%20progression%20pp.svg): the labels of the nearest artwork for each waypoint obtained with the Principal Path algorithm (pp)
 - [KNNtp.svg](results/images/mode=2_22-14-17-3/Recovered%20styles%20progression%20tp.svg): the labels of the nearest artwork for each waypoint obtained with the trivial path (tp)
-- [paths.svg](results/images/mode=2_22-14-17-3/paths.svg): the 2D visualization of the Principal Path and the trivial path with t-SNE
-- [pp_info.txt](results/images/mode=2_22-14-17-3/pp_info.txt): the information about the nearest artwork (style, author, name, date) for each waypoint obtained with the Principal Path algorithm (pp)
-- [tp_info.txt](results/images/mode=2_22-14-17-3/tp_info.txt): the information about the nearest artwork (style, author, name, date) for each waypoint obtained with the trivial path (tp)
+- [paths.svg](results/images/mode=2_22-14-17-3_ok/perturbations/first_second/paths.svg): the 2D visualization of the Principal Path and the trivial path with t-SNE
+- [pp_info.txt](results/images/mode=2_22-14-17-3_ok/perturbations/first_second/pp_info.txt): the information about the nearest artwork (style, author, name, date) for each waypoint obtained with the Principal Path algorithm (pp)
+- [tp_info.txt](results/images/mode=2_22-14-17-3_ok/perturbations/first_second/tp_info.txt): the information about the nearest artwork (style, author, name, date) for each waypoint obtained with the trivial path (tp)
 
 If you want to match the lines inside the \*\_info.txt files, you can collect the images in the [WikiArt website](https://www.wikiart.org) or you can download the full Wikipainting dataset from the [RASTA project's github](https://github.com/bnegreve/rasta) (2) executing the following command:
 ```
