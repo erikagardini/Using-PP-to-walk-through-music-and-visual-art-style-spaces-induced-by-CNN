@@ -1,3 +1,6 @@
+Start point - index = 413
+End point - index = 371
+
 [['5'
   '40765_asteria-le_souvenir_de_vous_me_tue-09-se_la_face_ay_pale_guillaume_dufay-30-59']]
 [['5'

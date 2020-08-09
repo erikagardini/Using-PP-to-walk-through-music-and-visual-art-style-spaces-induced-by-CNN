@@ -1,3 +1,6 @@
+Start point - index = 1254
+End point - index = 919
+
 [['2'
   '53372_farallon_recorder_quartet-ludwig_senfl-15-unsaglich_schmerz-30-59']]
 [['2'
