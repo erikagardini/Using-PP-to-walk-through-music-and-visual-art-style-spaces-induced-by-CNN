@@ -1,0 +1,63 @@
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'agostino-carracci_the-ecstasy-of-saint-catherine-1590.jpg' '1590']]
+[['22' 'gerard-terborch_woman-writing-a-letter.jpg' '1645']]
+[['22' 'gerard-terborch_woman-writing-a-letter.jpg' '1645']]
+[['17' 'ilya-repin_ukranian-girl-by-a-fence-1876.jpg' '1876']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'anthony-van-dyck_genoese-noblewoman-with-her-son-1626.jpg' '1626']]
+[['17'
+  'ivan-kramskoy_portrait-of-singer-elizabeth-andreevny-lavrovsky-on-stage-at-the-assembly-of-nobility-1879.jpg'
+  '1879']]
+[['17'
+  'ivan-kramskoy_portrait-of-singer-elizabeth-andreevny-lavrovsky-on-stage-at-the-assembly-of-nobility-1879.jpg'
+  '1879']]
+[['22' 'anthony-van-dyck_genoese-noblewoman-with-her-son-1626.jpg' '1626']]
+[['22' 'anthony-van-dyck_genoese-noblewoman-with-her-son-1626.jpg' '1626']]
+[['17' 'gustave-courbet_the-trout-1872.jpg' '1872']]
+[['17' 'gustave-courbet_the-trout-1872.jpg' '1872']]
+[['17' 'gustave-courbet_the-trout-1872.jpg' '1872']]
+[['17' 'gustave-courbet_the-trout-1872.jpg' '1872']]
+[['17' 'gustave-courbet_the-trout-1872.jpg' '1872']]
+[['17' 'vincent-van-gogh_farmhouse-with-barn-and-trees-1883.jpg' '1883']]
+[['17' 'ilya-repin_leo-tolstoy-working-at-the-round-table-1891.jpg'
+  '1891']]
+[['17' 'ilya-repin_leo-tolstoy-working-at-the-round-table-1891.jpg'
+  '1891']]
+[['17' 'ilya-repin_leo-tolstoy-working-at-the-round-table-1891.jpg'
+  '1891']]
+[['17' 'ilya-repin_portrait-of-vladimir-sergeyevich-solovyov-1891.jpg'
+  '1891']]
+[['3' 'paula-modersohn-becker_crouching.jpg' '1931']]
+[['17' 'ilya-repin_portrait-of-vladimir-sergeyevich-solovyov-1891.jpg'
+  '1891']]
+[['17' 'theodore-rousseau_a-path-in-the-forest.jpg' '1889']]
+[['17' 'theodore-rousseau_a-path-in-the-forest.jpg' '1889']]
+[['17' 'theodore-rousseau_a-path-in-the-forest.jpg' '1889']]
+[['17' 'camille-pissarro_the-froggybog-at-bougival-1869.jpg' '1869']]
+[['17'
+  'theodore-rousseau_view-of-the-plain-of-montmartre-x-effect-of-storm-1848.jpg'
+  '1848']]
+[['17' 'gustave-courbet_the-gorge.jpg' '1889']]
+[['17' 'gustave-courbet_the-gorge.jpg' '1889']]
+[['17' 'gustave-courbet_the-gorge.jpg' '1889']]
+[['17' 'valentin-serov_portrait-of-mara-oliv-1895.jpg' '1895']]
+[['17' 'valentin-serov_portrait-of-mara-oliv-1895.jpg' '1895']]
+[['17' 'valentin-serov_portrait-of-mara-oliv-1895.jpg' '1895']]
+[['17' 'valentin-serov_portrait-of-mara-oliv-1895.jpg' '1895']]
+[['17' 'valentin-serov_portrait-of-mara-oliv-1895.jpg' '1895']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]

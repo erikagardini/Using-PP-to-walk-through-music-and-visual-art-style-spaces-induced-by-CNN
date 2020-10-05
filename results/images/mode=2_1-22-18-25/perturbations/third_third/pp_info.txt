@@ -1,0 +1,71 @@
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1' 'domenico-ghirlandaio_the-funeral-of-st-fina-1475.jpg' '1475']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['22' 'anthony-van-dyck_genoese-noblewoman-with-her-son-1626.jpg' '1626']]
+[['22' 'anthony-van-dyck_genoese-noblewoman-with-her-son-1626.jpg' '1626']]
+[['22' 'anthony-van-dyck_genoese-noblewoman-with-her-son-1626.jpg' '1626']]
+[['22' 'anthony-van-dyck_genoese-noblewoman-with-her-son-1626.jpg' '1626']]
+[['22' 'francesco-solimena_sacred-conversation.jpg' '1645']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18' 'william-shayer_donkey-and-sheep.jpg' '1849']]
+[['18'
+  'karl-bodmer_stolzenfels-castle-in-the-background-lahneck-castle-1836.jpg'
+  '1836']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'gustave-dore_the-flight-into-egypt.jpg' '1849']]
+[['18' 'francisco-goya_pretty-teacher-1799.jpg' '1799']]
+[['18' 'francisco-goya_pretty-teacher-1799.jpg' '1799']]
+[['18'
+  'sir-lawrence-alma-tadema_portrait-of-ignacy-jan-paderewski-1891.jpg'
+  '1891']]
+[['18'
+  'sir-lawrence-alma-tadema_portrait-of-ignacy-jan-paderewski-1891.jpg'
+  '1891']]
+[['18'
+  'sir-lawrence-alma-tadema_portrait-of-ignacy-jan-paderewski-1891.jpg'
+  '1891']]
+[['18' 'jan-matejko_portrait-of-a-father.jpg' '1849']]
+[['22' 'diego-velazquez_head-of-a-man.jpg' '1645']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['18' 'francisco-goya_the-duke-of-wellington.jpg' '1849']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]
+[['25' 'adnan-coker_er-eve-1999.jpg' '1999']]

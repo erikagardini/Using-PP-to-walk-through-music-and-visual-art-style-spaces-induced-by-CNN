@@ -1,0 +1,86 @@
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['1' 'fra-angelico_predella-of-the-san-domenico-altarpiece-1424.jpg'
+  '1424']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-the-villa-of-maecenas-at-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-the-villa-of-maecenas-at-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['14'
+  'giovanni-battista-piranesi_remains-of-a-hall-belonging-to-the-villa-adriana-castro-pretorio-in-tivoli.jpg'
+  '1843']]
+[['17' 'ilya-repin_leo-tolstoy-working-at-the-round-table-1891.jpg'
+  '1891']]
+[['17' 'ilya-repin_leo-tolstoy-working-at-the-round-table-1891.jpg'
+  '1891']]
+[['17' 'ilya-repin_leo-tolstoy-working-at-the-round-table-1891.jpg'
+  '1891']]
+[['17' 'ilya-repin_portrait-of-vladimir-sergeyevich-solovyov-1891.jpg'
+  '1891']]
+[['17' 'ilya-repin_portrait-of-vladimir-sergeyevich-solovyov-1891.jpg'
+  '1891']]
+[['17' 'ilya-repin_portrait-of-vladimir-sergeyevich-solovyov-1891.jpg'
+  '1891']]
+[['17' 'theodore-rousseau_a-path-in-the-forest.jpg' '1889']]
+[['17' 'theodore-rousseau_a-path-in-the-forest.jpg' '1889']]
+[['17' 'ivan-shishkin_the-road-1878.jpg' '1878']]
+[['17' 'gustave-courbet_the-gorge.jpg' '1889']]
+[['17' 'gustave-courbet_the-gorge.jpg' '1889']]
+[['17' 'valentin-serov_portrait-of-mara-oliv-1895.jpg' '1895']]
+[['17' 'mary-cassatt_the-sailor-boy-gardener-cassatt-1892.jpg' '1892']]
+[['17' 'ilya-repin_ukranian-girl-by-a-fence-1876.jpg' '1876']]
+[['17' 'ilya-repin_ukranian-girl-by-a-fence-1876.jpg' '1876']]
+[['17' 'gustave-courbet_the-trout-1872.jpg' '1872']]
+[['17' 'gustave-courbet_the-trout-1872.jpg' '1872']]
+[['17' 'gustave-courbet_the-trout-1872.jpg' '1872']]
+[['17' 'frits-thaulow_the-mill.jpg' '1889']]
+[['17' 'vasily-perov_organ-grinder-1863.jpg' '1863']]
+[['17' 'vasily-perov_organ-grinder-1863.jpg' '1863']]
+[['17'
+  'ivan-kramskoy_portrait-of-singer-elizabeth-andreevny-lavrovsky-on-stage-at-the-assembly-of-nobility-1879.jpg'
+  '1879']]
+[['17'
+  'ivan-kramskoy_portrait-of-singer-elizabeth-andreevny-lavrovsky-on-stage-at-the-assembly-of-nobility-1879.jpg'
+  '1879']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['1' 'fra-angelico_the-virgin-consigns-the-habit-to-st-dominic-1434.jpg'
+  '1434']]
+[['17' 'alexey-venetsianov_portrait-of-marfa-venetsianova.jpg' '1889']]
+[['17' 'alexey-venetsianov_portrait-of-marfa-venetsianova.jpg' '1889']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]
+[['17' 'horia-bernea_the-column-1992.jpg' '1992']]

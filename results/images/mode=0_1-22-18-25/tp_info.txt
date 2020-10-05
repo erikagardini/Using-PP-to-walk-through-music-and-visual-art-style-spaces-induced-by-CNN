@@ -1,0 +1,78 @@
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['1'
+  'domenico-veneziano_st-john-the-baptist-and-st-francis-of-assisi.jpg'
+  '1460']]
+[['22'
+  'ivan-rutkovych_icon-savior-nerukotvornyi-saviour-not-made-by-hands-from-the-zhovkva-iconostasis-1699-1.jpg'
+  '1699']]
+[['22'
+  'ivan-rutkovych_icon-savior-nerukotvornyi-saviour-not-made-by-hands-from-the-zhovkva-iconostasis-1699-1.jpg'
+  '1699']]
+[['22'
+  'ivan-rutkovych_icon-savior-nerukotvornyi-saviour-not-made-by-hands-from-the-zhovkva-iconostasis-1699-1.jpg'
+  '1699']]
+[['22'
+  'ivan-rutkovych_icon-savior-nerukotvornyi-saviour-not-made-by-hands-from-the-zhovkva-iconostasis-1699-1.jpg'
+  '1699']]
+[['22'
+  'ivan-rutkovych_icon-savior-nerukotvornyi-saviour-not-made-by-hands-from-the-zhovkva-iconostasis-1699-1.jpg'
+  '1699']]
+[['22'
+  'ivan-rutkovych_icon-savior-nerukotvornyi-saviour-not-made-by-hands-from-the-zhovkva-iconostasis-1699-1.jpg'
+  '1699']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['22' 'rembrandt_cupid-blowing-soap-bubbles-1634.jpg' '1634']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]
+[['25' 'wassily-kandinsky_white-figure-1943.jpg' '1943']]

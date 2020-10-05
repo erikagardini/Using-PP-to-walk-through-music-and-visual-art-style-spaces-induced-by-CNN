@@ -1,0 +1,104 @@
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]
+[['3' 'billy-childish_chinese-lanterns-2005.jpg' '2005']]

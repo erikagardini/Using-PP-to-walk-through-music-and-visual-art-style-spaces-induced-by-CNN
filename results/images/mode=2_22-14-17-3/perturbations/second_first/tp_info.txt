@@ -1,0 +1,108 @@
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'agostino-carracci_portrait-of-christine-of-lorraine-grand-duchess-of-tuscany-1589.jpg'
+  '1589']]
+[['22'
+  'gian-lorenzo-bernini_portrait-of-a-man-with-a-moustache-supposed-self-portrait.jpg'
+  '1645']]
+[['22'
+  'gian-lorenzo-bernini_portrait-of-a-man-with-a-moustache-supposed-self-portrait.jpg'
+  '1645']]
+[['22'
+  'gian-lorenzo-bernini_portrait-of-a-man-with-a-moustache-supposed-self-portrait.jpg'
+  '1645']]
+[['22'
+  'gian-lorenzo-bernini_portrait-of-a-man-with-a-moustache-supposed-self-portrait.jpg'
+  '1645']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
+[['3' 'wolf-kahn_evening-distance-2006.jpg' '2006']]
