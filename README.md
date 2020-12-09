@@ -7,7 +7,7 @@ This project aims at navigating the Music and Visual Art Spaces via the Principa
 ## Downloads files (mandatory)
 
 ```
-git clone https://github.com/erikagardini/InferringMusicAndVisualArtStyleEvolution.git
+git clone https://github.com/erikagardini/Using-PP-to-walk-through-music-and-visual-art-style-spaces-induced-by-CNN.git
 ```
 
 ## Hot to use this code
