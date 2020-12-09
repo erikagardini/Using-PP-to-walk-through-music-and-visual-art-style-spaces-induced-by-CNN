@@ -1,4 +1,4 @@
-# Walking through the Music and Visual Art StyleSpace via Computational Intelligence
+# Using Principal Path to walk through music and visual art style spaces induced by CNN
 
 This project aims at navigating the Music and Visual Art Spaces via the Principal Path algorithm (1).
 
